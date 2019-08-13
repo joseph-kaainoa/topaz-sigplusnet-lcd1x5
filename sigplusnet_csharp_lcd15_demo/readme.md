@@ -6,3 +6,7 @@ The demo did not include the image files required for this demo.  The included i
 
 While this demo does include the SigPlusNET.dll (included in the original demo), the INI file that is used to configure which signature pad is used is not.  It is recommended to install the SigPlusNET compenent from <https://www.topazsystems.com/sigplusnet.html>.
 The setup wizard will step you through which hardware is going to be used so it can properly configure the INI file.
+
+## SigPlusNet Installation
+
+The default location for the SigPlusNet install is in C:\Windows\SigPlus\NET and the INI file is in C:\Windows\sigplus.ini.
